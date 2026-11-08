@@ -29,7 +29,7 @@ prototipos, scripts y proyectos pequeños.
 CassieDB es un solo archivo. Copia `cassiedb.py` a tu proyecto, o clona el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/CassieDB.git
+git clone https://github.com/cassiecass-cs/CassieDB.git
 ```
 
 > Reemplaza `TU_USUARIO` por tu usuario de GitHub.
